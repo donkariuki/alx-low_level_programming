@@ -1,5 +1,6 @@
 #include <stdio.h>
-/*main - Entry point for c
+
+/**main - Entry point for c
  *
  * Return = 0
  */

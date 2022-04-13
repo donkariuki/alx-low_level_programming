@@ -3,10 +3,10 @@
  * print_alphabet_x10 - prints alphabet 10 times
  * Return:void
  */
-void print_alpgabet_x10(void)
+void print_alphabet_x10(void)
 {
 char c;
-int 1 = 0;
+int i = 0;
 while (i < 10)
 {
 c = 'a';

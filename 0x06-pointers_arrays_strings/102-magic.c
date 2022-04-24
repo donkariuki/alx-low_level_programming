@@ -16,7 +16,7 @@ int main(void)
 	 * only one statement
 	 * youre not aloowed to code anytrhing else
 	 */
-	p[5] = 98;
+	*(p + 5) = 98;
 	/*..... sp this prints 98\n*/
 	printf("a[2] = %d\n", a[2]);
 	return (0);

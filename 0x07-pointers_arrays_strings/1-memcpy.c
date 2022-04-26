@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
  /**
   * _memcpy - input 
   * @dest: input pointer to string destination
